@@ -1,4 +1,4 @@
-## 📅 24-Week Sprint Plan – Mobile App Development
+24-Week Sprint Plan – Mobile App Development
 
 This 24-week sprint schedule outlines the development timeline for the mobile app project. Each sprint lasts 2 weeks and focuses on specific deliverables aligned with Agile methodology.
 
